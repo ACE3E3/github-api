@@ -1,4 +1,4 @@
-import React, { Fragment, useEffect } from "react";
+import React from "react";
 import { connect } from "react-redux";
 import * as reactStore from "../store/actions/action";
 import ShowProfile from "./ShowProfile";
